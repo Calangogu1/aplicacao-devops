@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Aplicação DevOps</title>
+</head>
+<body>
+    <h1>Bem-vindo à nossa aplicação DevOps! </h1>
+    <p>Projeto desenvolvido para a avaliação N1 de Ferramentas de Implantação Contínua.</p>
+</body>
+</html>
